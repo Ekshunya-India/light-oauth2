@@ -1,6 +1,8 @@
 A fast, light weight and cloud native OAuth 2.0 Server based on microservices architecture 
 built on top of light-4j and light-rest-4j frameworks. 
 
+Currently needs PKCE implementation. Then need User registration with Mobile phone. Mobile phone number authenticaion screen when the user has logged in via google or Facebook.
+
 [Stack Overflow](https://stackoverflow.com/questions/tagged/light-4j) |
 [Google Group](https://groups.google.com/forum/#!forum/light-4j) |
 [Gitter Chat](https://gitter.im/networknt/light-oauth2) |
