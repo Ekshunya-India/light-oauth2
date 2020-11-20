@@ -1,5 +1,29 @@
 # Change Log
 
+## [2.0.20](https://github.com/networknt/light-oauth2/tree/2.0.20) (2020-11-05)
+
+
+**Merged pull requests:**
+
+
+## [2.0.19](https://github.com/networknt/light-oauth2/tree/2.0.19) (2020-11-01)
+
+
+**Merged pull requests:**
+
+
+- Bump junit from 4.12 to 4.13.1 [\#298](https://github.com/networknt/light-oauth2/pull/298) ([dependabot](https://github.com/apps/dependabot))
+
+
+## [2.0.18](https://github.com/networknt/light-oauth2/tree/2.0.18) (2020-10-01)
+
+
+**Merged pull requests:**
+
+
+- fixes \#293 add google and facebook login for the login-view [\#294](https://github.com/networknt/light-oauth2/pull/294) ([stevehu](https://github.com/stevehu))
+
+
 ## [2.0.17](https://github.com/networknt/light-oauth2/tree/2.0.17) (2020-08-28)
 
 
